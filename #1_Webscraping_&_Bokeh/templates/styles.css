@@ -1,0 +1,69 @@
+.content{
+    color: #2b6980;      
+    width: 100px;
+    height: 30px;
+	text-align:center;
+	display:inline-block;
+	background-color: #dbe7eb;
+	font-weight: bold;
+	position: absolute;
+	left: 200px;
+}
+
+.name{
+    font-size: 6pt;      
+}
+
+.number{
+    font-size: 10pt;
+}
+
+
+.custom_button_bokeh button.bk.bk-btn.bk-btn-default {
+	color: black;
+	font-size: 9pt;
+	background-color: #ff841278;
+	border-color: #999;
+	padding : 6px 32px;
+}
+.custom_button_bokeh div.bk.bk-menu.bk-below {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+	cursor: pointer;
+	font-size: 12px;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+	background-color: antiquewhite;
+}
+
+.custom_group_button_bokeh div.bk.bk-btn.bk-btn-default {
+	color: black;
+	font-size: 9pt;
+	background-color: #b4cdd57a;
+	border-color: #999;
+	padding : 6px 32px;
+}
+
+.custom_group_button_bokeh div.bk.bk-btn.bk-btn-default.bk-active {
+	color: black;
+	font-size: 9pt;
+	background-color: #a6cedb7a;
+	border-color: #999;
+	padding : 6px 32px;
+	font-weight : bold;
+}
+
+.bk-root .bk-tabs-header .bk-tab.bk-active {
+    color: #4d4d4d;
+    background-color: #ffd26059;
+    border-color: #e6e6e6;
+    font-weight: bold;
+}
+
+.my-table .slick-header-column:nth-child(1) .slick-column-name{
+    float:right !important;
+}
