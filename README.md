@@ -1,6 +1,6 @@
 <h1> Portfolio projects </h1>
 
-* Personal projets in data science and machine learning to implement what I am learning through my self-training *
+*Personal projets in data science and machine learning to implement what I am learning through my self-training*
 
 <h2> 1_Webscraping_&_Bokeh </h2>
 
